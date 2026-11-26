@@ -1,0 +1,1 @@
+*/15 * * * * www-data /bin/sh /var/www/html/ondulateur/run-collector.sh >> /var/log/ondulateur-collector.log 2>&1
